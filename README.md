@@ -1,6 +1,8 @@
 WebCrawler
 ==========
 
+开发中..... by Adrian.CuiQin
+
 知道创宇面试题
 
 spider.py -u url -d deep -f logfile -l loglevel(1-5)  --testself -thread number --dbfile  filepath  --key=”HTML5”
